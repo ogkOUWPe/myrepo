@@ -9,7 +9,7 @@ public class Sample {
 		Wolf wolf = new Wolf();
 		
 		duck.Eat("fish");
-		wolf.Eat("rabbit");
+		//wolf.Eat("rabbit");
 
 	}
 
